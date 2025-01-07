@@ -1,9 +1,0 @@
-{
-    "name": "rezept",
-    "version": "0.1.0",
-    "private": true,
-    "scripts": {},
-    "dependencies": {
-        "next": "15.1.3"
-    }
-}
