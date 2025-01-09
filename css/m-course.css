@@ -1,0 +1,43 @@
+.title{
+    font-size: 65px;
+}
+
+header {
+    background-color: #db8d51;
+    color: #ffffff;
+    text-align:center;
+    padding: 20px;
+    
+}
+
+.nav {
+    background-color: #20b2aa;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    font-size: 1.1em;
+}
+
+.nav a:hover {
+    background-color: rgba(0, 174, 255, 0.436);
+    border-radius: 4px;
+}
+
+a:active { 
+    color: purple;
+}
+
+
+.footer {
+    background-color: #db8d51;
+    text-align: center;
+    padding-bottom:20px;
+    margin-bottom: 10px;
+
+}
