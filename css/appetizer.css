@@ -74,3 +74,18 @@ gap: 20px;
     flex-wrap: wrap;
 
 }
+
+.DivForHoverItem {
+ 
+    height: 50px;
+    width: 300px;
+    background-color: red;
+}
+
+.HiddenText {
+    display: none;
+}
+
+.DivForHoverItem:hover .hiddenText {
+    display:block;
+}
