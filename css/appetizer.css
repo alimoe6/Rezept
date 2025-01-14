@@ -68,5 +68,9 @@ gap: 20px;
     text-align: center;
     padding-bottom:20px;
     margin-bottom: 10px;
+    grid-row-gap: 6.857rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 
 }
